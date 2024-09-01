@@ -1,0 +1,44 @@
+Marketing Data :
+ 
+pages :
+  
+  - Home : KPI cards ? : 
+      CTR
+      Conversion_Rate
+      total converted customers --> measure    
+      total Conversion values 
+           
+ 
+    
+   -Reached target gauge? :
+     Conversion values
+
+     Country vs values
+     Platforms vs values
+
+   -Customer analysis button
+   -Platform analysis button
+   -Timeline button
+  ********************************
+  - Customer analysis :
+
+   Card : - Best Country conversion value                     * Countries filter
+          - total Clicks
+          - Gender
+
+    
+     - total conversions for each country - age group                     
+     - Product category               
+     - Most used platform for each country  
+     
+  **********************************
+  - Platform analysis : 
+      -tree
+ **********************************
+
+Timelines : Month - Week - Daytime
+
+-Timeline with Impressions 
+
+
+
